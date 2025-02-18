@@ -4,7 +4,7 @@
 ### Studying ...
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
 <br>
-<img src="https://github.com/user-attachments/assets/985ddc64-4986-4bbf-b832-b89b7c999efd" width="119" height="84"/>
+<img src="https://github.com/user-attachments/assets/985ddc64-4986-4bbf-b832-b89b7c999efd" width="60" height="42"/>
 
 <!--
 **Hongjaaa/Hongjaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
